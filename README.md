@@ -6,5 +6,5 @@
 - 😄 Pronomes: Ele/Dele
 - 👤[LinkedIn](https://www.linkedin.com/in/thierry-feliciano-368a77285)  
 - 🌐[Portfólio - YelpCamp](https://project-yelpcamp-n0is.onrender.com/)
-- 🌐[Portfólio - Viagens Jornadas](https://th1erry.github.io/viagens-jornadas.com/)
+- 🌐[Portfólio - Viagens Jornadas](https://th1erry.github.io/viagens-jornadas/)
 - ✉️ [Email](thierry.feliciano@gmail.comm)
